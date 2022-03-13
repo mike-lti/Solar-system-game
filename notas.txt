@@ -1,0 +1,2 @@
+-Class corpo celeste como aplicar metodos de classes necessárias se o tipo introduzido no metodo equals como arg nao e do tipo da classe, pq da erro sendo que eu verifico se os objetos sao do mesmo tipo antes de aplicar os metodos
+-Class sistema 2 d (polimorfismo) numa lista de objetos da superclass como usar os elementos como objecto da subclass
